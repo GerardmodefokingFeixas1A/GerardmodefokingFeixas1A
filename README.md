@@ -2,7 +2,11 @@
 
 I'm a 3D moddeler, currently styding in [**CEV**](https://www.cevbarcelona.com/).
 
-I'm going to be a prefessional at this thats why I try to improve my skills day by day.
+I'm going to be a prefessional at this, thats why I try to improve my skills day by day.
+
+### The prgrams I use:
+
+<img src="https://styles.redditmedia.com/t5_2qihn/styles/communityIcon_yun181pii3421.png" width="300"> <img src= "https://simg.nicepng.com/png/small/346-3465561_3ds-max-3d-max-logo-png.png" width="300"> <img src="https://w7.pngwing.com/pngs/847/479/png-transparent-zbrush-digital-sculpting-computer-software-tutorial-3d-modeling-vray-icon-3d-computer-graphics-text-logo-thumbnail.png" width = "300">
 
 ### You can find me:
 
@@ -11,17 +15,3 @@ I'm going to be a prefessional at this thats why I try to improve my skills day 
 ![Discord](https://img.shields.io/badge/ZZviente0-899ad5?style=for-the-badge&logo=Discord&logoColor=white&labelColor=101010)
 
 
-<!--
-**GerardmodefokingFeixas1A/GerardmodefokingFeixas1A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
